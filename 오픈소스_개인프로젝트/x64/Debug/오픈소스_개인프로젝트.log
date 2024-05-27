@@ -1,0 +1,10 @@
+﻿  연습.c
+C:\Users\soyeo\Desktop\교과 수업\2024-1\오픈소스_개인프로젝트\연습.c(37,30): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\soyeo\Desktop\교과 수업\2024-1\오픈소스_개인프로젝트\연습.c(80,30): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\soyeo\Desktop\교과 수업\2024-1\오픈소스_개인프로젝트\연습.c(99,5): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\soyeo\Desktop\교과 수업\2024-1\오픈소스_개인프로젝트\연습.c(133,9): warning C4013: 'Sleep'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\soyeo\Desktop\교과 수업\2024-1\오픈소스_개인프로젝트\연습.c(143,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\soyeo\Desktop\교과 수업\2024-1\오픈소스_개인프로젝트\연습.c(146,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\soyeo\Desktop\교과 수업\2024-1\오픈소스_개인프로젝트\연습.c(149,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\soyeo\Desktop\교과 수업\2024-1\오픈소스_개인프로젝트\연습.c(167,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  오픈소스_개인프로젝트.vcxproj -> C:\Users\soyeo\Desktop\교과 수업\2024-1\오픈소스_개인프로젝트\x64\Debug\오픈소스_개인프로젝트.exe
